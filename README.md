@@ -1,7 +1,7 @@
 # Hindi Stop Words for NLP
 
 **Assignment 1 · Indic stop words · Monsoon Semester 2026**
-Author: [Your Name] · [Department, Institution]
+Author: Siddhi Rashi Pandey 25MA0012 · Digital Humanities and Social Sciences
 
 **Abstract.** Stop words are the small grammatical words (और, है, का) that carry almost no topic information and are usually removed before text is analysed. For this assignment I wrote a list of 24 Hindi stop words in Devanagari, grouped by grammatical role, plus a short helper that uses the list to clean a sentence. The word list is in [`hindi_stopwords.py`](hindi_stopwords.py).
 
