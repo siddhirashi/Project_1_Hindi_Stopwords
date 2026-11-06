@@ -68,4 +68,4 @@ Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
 
 | File | URL |
 |---|---|
-| hindi_stopwords.py | https://github.com/siddhirashi/Project_1_Hindi_Stopwords/hindi_stopwords.py |
+| hindi_stopwords.py | [https://github.com/siddhirashi/Project_1_Hindi_Stopwords/hindi_stopwords.py](https://github.com/siddhirashi/Project_1_Hindi_Stopwords/blob/main/hindi_stopwords.py) |
