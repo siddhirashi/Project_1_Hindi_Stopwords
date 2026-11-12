@@ -70,7 +70,7 @@ remove_stopwords("यह एक छोटी सी कहानी है")
 
 ## Link for the website
 
-Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
+
 
 | File | URL |
 |---|---|
